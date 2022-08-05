@@ -1,0 +1,28 @@
+{
+  "employees": [
+    {
+      "name": "Halil Yollu",
+      "department": "Bilişim",
+      "salary": 10000,
+      "id": 1
+    },
+    {
+      "name": "Mehmetcan Kelek",
+      "department": "Ar-Ge",
+      "salary": 9000,
+      "id": 2
+    },
+    {
+      "name": "Melih Çelik",
+      "department": "Pazarlama",
+      "salary": "12000",
+      "id": 3
+    },
+    {
+      "name": "Sercan Ölez",
+      "department": "Sağlık",
+      "salary": 10000,
+      "id": 4
+    }
+  ]
+}
